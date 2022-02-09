@@ -5,10 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: Who said that not having a head was messy?
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: |
+      An agency dedicated to decapitating slow outdated websites.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
