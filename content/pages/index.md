@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: Who said that not having a head was messy?
     content: |
-      An agency dedicated to decapitating slow outdated websites.
+      We are an agency dedicated to decapitating slow outdated websites.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
